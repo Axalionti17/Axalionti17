@@ -1,0 +1,95 @@
+body{
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+background: radial-gradient(#c96e8f,#7ca9d1)
+
+   
+
+}
+
+/* prin */
+h1{
+
+background-color: black;
+font-family: "Pacifico", cursive;
+font-size: 50px;
+text-align: center;
+
+ color:#c96e8f
+
+}
+
+
+td{
+   border-radius: 5px;
+   
+   background-color:cornflowerblue
+   
+   
+}
+/* sub */
+h2{
+text-align: center;
+font-family: "Nanum Pen Script", cursive;
+background-color: black;
+
+color: aliceblue;
+font-size: 30px;
+
+}
+.estilo{
+   text-align: center;
+   list-style:  none;
+}
+
+.table
+{
+   text-align: center;
+}
+
+p{
+   text-align: center;
+   font-family: "Poetsen One", sans-serif;
+}
+
+/* sombreado */
+.container2{
+
+columns: 240px 2;
+column-gap: 16px;
+min-height: 200px;
+/* margen del contenedor */
+padding: 10px;
+border: 1px solid #333;
+
+resize: both;
+overflow: hidden;
+}
+/* centrar img */
+.conteiner{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/* medidas */
+img{
+
+height: 350px;
+border-radius: 5px;
+}
+
+h3 {
+   background-color: black;
+   text-align: center;
+   color: rgb(48, 210, 210);
+   font-family: "Nanum Pen Script", cursive;
+   font-size: 30px;
+  
+}
+li{
+   font-family: "Poetsen One", sans-serif;
+}
+
+
+
+
